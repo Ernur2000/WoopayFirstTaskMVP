@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WoopayFirstTaskMVP</string>
+    <string name="recent">Recents</string>
+    <string name="favourites">Favourites</string>
+    <string name="nearby">Nearby</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="click">click</string>
+    <string name="get_fact">Get Fact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
